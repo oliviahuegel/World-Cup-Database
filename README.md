@@ -1,4 +1,4 @@
-# World-Cup-Database
+# World Cup Database
 This project is based on the 2018 FIFA World Cup teams. There are 32 competing nations in the tournament, divided into 8 groups, A through H, with each group having 4 countries. 
 
 So far, the group stage games have been played, with each country playing exactly 3 matches. 
